@@ -1,16 +1,16 @@
-# INSERT YOUR TITLE HERE
+# COMMON SAS TASKS
 
 # Overview
-Write in an overview / background for your repository.
+This repository has a SAS program that shows how to do common tasks like how to send an email from SAS, how to stop a SAS program if there is an error, how to recode variables using arrays, etc.
 
 # Instructions
-If your repository has instructions, include them here.
+N/A
 
 # Notes and Considerations
-Add any notes and considerations here.
+None
 
 # Issues or Questions
-Please post an issue in this repository. Questions can be sent to [enter your email address here].
+Please post an issue in this repository. 
 
 # License Standard Notice
 The repository utilizes code licensed under the terms of the Apache Software License and therefore is licensed under ASL v2 or later.
